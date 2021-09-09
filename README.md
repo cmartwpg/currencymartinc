@@ -1,2 +1,35 @@
-# currencymartinc
-currency mart forex rate source
+# Currency Mart Inc.
+Currency Mart is a foreign currency exchange dealer in Canada and operates 4 retail locations in 2 cities of Canada.
+
+# Locations
+* [Currency Mart Inc.](https://currencymart.net)
+* [Currency Exchange Winnipeg Downtown Currency Mart](https://currencymart.net/currency-exchange/winnipeg/downtown/)
+* [Currency Exchange Winnipeg St. Vital Currency Mart](https://currencymart.net/currency-exchange/winnipeg/stvital/)
+* [Currency Exchange Toronto Downtown Currency Mart](https://currencymart.net/currency-exchange/toronto/downtown/)
+* [Currency Exchange Toronto North York Currency Mart](https://currencymart.net/currency-exchange/toronto/north-york/)
+
+#Keywords
+* [currency exchange](https://currencymart.net)
+* [foreign exchange](https://currencymart.net)
+* [money exchange](https://currencymart.net)
+* [BUREAU DE CHANGE](https://currencymart.net)
+* [cambio de divisas](https://currencymart.net)
+* [Currency Exchange Winnipeg](https://currencymart.net/currency-exchange/winnipeg/downtown/)
+* [Currency Exchange Winnipeg](https://currencymart.net/currency-exchange/winnipeg/stvital/)
+* [Currency Exchange Toronto](https://currencymart.net/currency-exchange/toronto/downtown/)
+* [Currency Exchange Toronto](https://currencymart.net/currency-exchange/toronto/north-york/)
+* [foreign Exchange Winnipeg](https://currencymart.net/currency-exchange/winnipeg/downtown/)
+* [foreign Exchange Winnipeg](https://currencymart.net/currency-exchange/winnipeg/stvital/)
+* [foreign Exchange Toronto](https://currencymart.net/currency-exchange/toronto/downtown/)
+* [foreign Exchange Toronto](https://currencymart.net/currency-exchange/toronto/north-york/)
+* [money Exchange Winnipeg](https://currencymart.net/currency-exchange/winnipeg/downtown/)
+* [money Exchange Winnipeg](https://currencymart.net/currency-exchange/winnipeg/stvital/)
+* [money Exchange Toronto](https://currencymart.net/currency-exchange/toronto/downtown/)
+* [money Exchange Toronto](https://currencymart.net/currency-exchange/toronto/north-york/)
+* [currency exchange rate](https://currencymart.net/exchange-rate/)
+* [foreign exchange rate](https://currencymart.net/exchange-rate/)
+* [money exchange rate](https://currencymart.net/exchange-rate/)
+* [interbank exchange rate](https://currencymart.net/exchange-rate/)
+* [middle market exchange rate](https://currencymart.net/exchange-rate/)
+* [interbank rate](https://currencymart.net/exchange-rate/)
+* [middle market rate](https://currencymart.net/exchange-rate/)
