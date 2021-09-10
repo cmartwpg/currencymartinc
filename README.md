@@ -14,6 +14,8 @@ Currency Mart is a foreign currency exchange dealer in Canada and operates 4 ret
 * [money exchange](https://currencymart.net)
 * [BUREAU DE CHANGE](https://currencymart.net)
 * [cambio de divisas](https://currencymart.net)
+* [Currency Exchange Winnipeg](https://currencymart.net)
+* [Currency Exchange Toronto](https://currencymart.net)
 * [Currency Exchange Winnipeg](https://currencymart.net/currency-exchange/winnipeg/downtown/)
 * [Currency Exchange Winnipeg](https://currencymart.net/currency-exchange/winnipeg/stvital/)
 * [Currency Exchange Toronto](https://currencymart.net/currency-exchange/toronto/downtown/)
